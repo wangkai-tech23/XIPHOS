@@ -1,7 +1,7 @@
 # XIPHOS
 This repository contains the implementation of the approach proposed in the paper "XIPHOS: Adaptive In-Vehicle Intrusion Detection via Unsupervised Graph Contrast Learning".
 
-Overall architecture
+#Overall architecture
 
 Folder GCL-master provides graph contrast learning model training and graph representation generation content.
 
