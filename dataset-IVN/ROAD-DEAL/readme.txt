@@ -1,0 +1,1 @@
+The folder data_preprocess provides the code for data preprocessing, the folder ROAD_raw stores the ROAD data set, and the folder ROAD_split contains the processed graph structure data as the input of the graph comparison learning model.
