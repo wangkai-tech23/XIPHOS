@@ -6,3 +6,5 @@ This repository contains the implementation of the approach proposed in the pape
 Folder GCL-master provides graph contrast learning model training and graph representation generation content.
 
 Folder DHC-master provides content for training and anomaly detection of downstream classifiers.
+
+Please contact jiangqiguang_971@163.com if you have other questions.
